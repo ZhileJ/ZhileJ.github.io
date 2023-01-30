@@ -8,6 +8,8 @@
 
 Email: zhile \<at\> cs.au.dk
 
+<img src="/Users/au641092/Documents/site/gitsite/src/photo.jpeg" alt="Photo by Wenyue Ma" style="zoom:50%;" />
+
 ---
 
 I am a second-year PhD student supervised by [Ioannis Caragiannis](https://cs.au.dk/~iannis/) at Aarhus University. I study in algorithmic game theory. Before working with Iannis, I obtained my master's degree at Aarhus Univeristy. I got my bachelor's degree at [College of Computer Science](https://cs.scu.edu.cn/e_jsjxy/), [Sichuan University](https://en.scu.edu.cn/). During my bachelor study, I did some research in reinforcement learning, deep learning, and natural language processing.
@@ -15,6 +17,8 @@ I am a second-year PhD student supervised by [Ioannis Caragiannis](https://cs.au
 Now, I am working on various problems in algorithmic game theory, such as computing equilibrium, pricing, and stable matching. And I am also open with any interesting problem in theoretical computer science.
 
 My CV is [here](./CV_Zhile.pdf).
+
+---
 
 ### Reasearch
 
@@ -38,6 +42,4 @@ I taught Machine Learning (Fall'22) and Data Mining (Spring'22) at Aarhus Univer
 
 ---
 
-Last updated: Jan. 2, 2022
-
-#### 
+Last updated: Jan. 27, 2022
